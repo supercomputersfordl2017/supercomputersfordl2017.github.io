@@ -6,13 +6,18 @@ This one-day workshop will facilitate active debate and interaction across many 
 
 Our goal is bring people who are trying to answer any of these questions together in hopes that cross pollination will accelerate progress towards deep learning at true supercomputer scale.
 
-# Speakers
+# Confirmed Speakers
 
-1. Priya Goyal - "ImageNet in 1 Hour" - Facebook
+1. Priya Goyal - "ImageNet in 1 Hour" - Facebook Research
 2. Timothy Lillicrap - "Scalable RL & AlphaGo" - DeepMind
-3. Nishant Keskar - "Generalization Gap" - Salesforce
+3. Nishant Keskar - "Generalization Gap" - Salesforce Research
 4. Scott Gray - "Small World Network Architectures" - OpenAI
 5. Matthew Johnson - "KFAC and Second Order Optimizers" - Google Brain
+6. Tim Salimans - "Evolutionary Strategies" - OpenAI
+7. Elad Hoffer - "Closing the Generalization Gap" - Tehcnion
+8. Andy Hock - "Scaling with Small Batches" - Cerebras
+9. Azalia Mirhoseini - "Learning Device Placement" - Google Brain
+10. Gregory Diamos - "Scaling and Sparsity" - Baidu
 
 # Important Dates
 
