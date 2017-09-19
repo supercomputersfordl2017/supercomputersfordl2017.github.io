@@ -6,7 +6,7 @@ This one-day workshop will facilitate active debate and interaction across many 
 
 Our goal is bring people who are trying to answer any of these questions together in hopes that cross pollination will accelerate progress towards deep learning at true supercomputer scale.
 
-# Keynote Speakers
+# Speakers
 
 1. Priya Goyal - "ImageNet in 1 Hour" - Facebook
 2. Timothy Lillicrap - "Scalable RL & AlphaGo" - DeepMind
@@ -28,6 +28,10 @@ We welcome participation in the form of papers/posters and questions for the two
 For papers and posters please submit 2 page papers in NIPS format to `supercomputersfordl2017@gmail.com` with `NIPS Workshop Papers` in the subject line.  Accepted papers will be posted on the website and invited to display a poster at the workshop.
 
 For panel questions please submit them to `supercomputersfordl2017@gmail.com` with `NIPS Workshop Questions` in the subject line.  The panels are TBD, but will be announced weeks before the conference.
+
+# Registration Awards
+
+We will offering NIPS workshop registrations to the four best papers submitted by students at academic instituions.  Please indict in your submission if you would like to apply for this award.
 
 # Contact Us
 
