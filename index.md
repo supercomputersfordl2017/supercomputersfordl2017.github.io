@@ -16,10 +16,10 @@ Our goal is bring people who are trying to answer any of these questions togethe
 
 # Important Dates
 
-3 November 2017: Submissions due, 4:59pm PST
-10 November 2017: Decisions announced
-28 November 2017: Final copies due
-9 December 2017: Workshop
+* 3 November 2017: Submissions due, 4:59pm PST
+* 10 November 2017: Decisions announced
+* 28 November 2017: Final copies due
+* 9 December 2017: Workshop
 
 # Participation
 
