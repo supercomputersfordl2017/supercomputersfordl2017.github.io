@@ -42,6 +42,6 @@ Coming soon...
 
 # Organizers
 Erich Elsen, Google Brain
-Danijar Hafner, ?
+Danijar Hafner, University College London
 Zak Stone, Google Brain
 Brennan Saeta, Google Brain
