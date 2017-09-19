@@ -41,7 +41,7 @@ Feel free to reach us at `supercomputersfordl2017@gmail.com` with any questions 
 Coming soon...
 
 # Organizers
-Erich Elsen, Google Brain
-Danijar Hafner, University College London
-Zak Stone, Google Brain
-Brennan Saeta, Google Brain
+* Erich Elsen, Google Brain
+* Danijar Hafner, University College London
+* Zak Stone, Google Brain
+* Brennan Saeta, Google Brain
