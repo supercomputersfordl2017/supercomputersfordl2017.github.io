@@ -10,7 +10,7 @@ Our goal is bring people who are trying to answer any of these questions togethe
 
 1. Priya Goyal - "ImageNet in 1 Hour" - Facebook Research
 2. Timothy Lillicrap - "Scalable RL & AlphaGo" - DeepMind
-3. Nishant Keskar - "Generalization Gap" - Salesforce Research
+3. Nitish Keskar - "Generalization Gap" - Salesforce Research
 4. Scott Gray - "Small World Network Architectures" - OpenAI
 5. Matthew Johnson - "KFAC and Second Order Optimizers" - Google Brain
 6. Tim Salimans - "Evolutionary Strategies" - OpenAI
