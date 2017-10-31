@@ -14,7 +14,7 @@ Our goal is bring people who are trying to answer any of these questions togethe
 4. Scott Gray - "Small World Network Architectures" - OpenAI
 5. Matthew Johnson - "KFAC and Second Order Optimizers" - Google Brain
 6. Tim Salimans - "Evolutionary Strategies" - OpenAI
-7. Elad Hoffer - "Closing the Generalization Gap" - Tehcnion
+7. Elad Hoffer - "Closing the Generalization Gap" - Technion
 8. Andy Hock - "Scaling with Small Batches" - Cerebras
 9. Azalia Mirhoseini - "Learning Device Placement" - Google Brain
 10. Gregory Diamos - "Scaling and Sparsity" - Baidu
