@@ -36,7 +36,7 @@ For panel questions please submit them to `supercomputersfordl2017@gmail.com` wi
 
 # Registration Awards
 
-We will offering NIPS workshop registrations to the four best papers submitted by students at academic instituions.  Please indict in your submission if you would like to apply for this award.
+We will offering NIPS workshop registrations to the four best papers submitted by students at academic instituions.  Please indicate in your submission if you would like to apply for this award.
 
 # Contact Us
 
