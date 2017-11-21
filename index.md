@@ -23,6 +23,7 @@ Our goal is bring people who are trying to answer any of these questions togethe
 13. Shankar Krishnan - "Neumann Optimizer" - Google Brain
 14. Ujval Kapasi - "TBD" - NVIDIA
 15. Thorsten Kurth - "Scaling Deep Learning to 15 PetaFlops" - Lawrence Berkeley National Labs
+16. Chris Ying - "Training with TPUs" - Google Brain
 
 # Important Dates
 
@@ -61,12 +62,13 @@ Feel free to reach us at `supercomputersfordl2017@gmail.com` with any questions 
 * 8:30 - 8:50 - Elad Hoffer - "Closing the Generalization Gap"
 * 8:50 - 9:10 - Sam Smith - "Don't Decay the Learning Rate, Increase the Batchsize"
 * 9:10 - 9:30 - Priya Goyal - "ImageNet in 1 Hour"
+* 9:30 - 9:50 - Chris Ying - "Training with TPUs"
 
 * Coffee Break
 
-* 9:50 - 10:10 - Matthew Johnson & Daniel Duckworth - "KFAC and Natural Gradients"
-* 10:10 - 10:30 - Shankar Krishnan - "Neumann Optimizer"
-* 10:30 - 10:50 Tim Salimans - "Evolutionary Strategies"
+* 10:10 - 10:30 - Matthew Johnson & Daniel Duckworth - "KFAC and Natural Gradients"
+* 10:30 - 10:50 - Shankar Krishnan - "Neumann Optimizer"
+* 10:50 - 11:10 Tim Salimans - "Evolutionary Strategies"
 
 * Panel
 
