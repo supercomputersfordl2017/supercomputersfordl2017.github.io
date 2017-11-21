@@ -55,7 +55,36 @@ We will offering NIPS workshop registrations to the four best papers submitted b
 Feel free to reach us at `supercomputersfordl2017@gmail.com` with any questions you might have.
 
 # Schedule
-Coming soon...
+
+8:00 - 8:10 - Welcome
+8:10 - 8:30 - Nitish Keskar - "Generalization Gap"
+8:30 - 8:50 - Elad Hoffer - "Closing the Generalization Gap"
+8:50 - 9:10 - Sam Smith - "Don't Decay the Learning Rate, Increase the Batchsize"
+9:10 - 9:30 - Priya Goyal - "ImageNet in 1 Hour"
+
+Coffee Break
+
+9:50 - 10:10 - Matthew Johnson & Daniel Duckworth - "KFAC and Natural Gradients"
+10:10 - 10:30 - Shankar Krishnan - "Neumann Optimizer"
+10:30 - 10:50 Tim Salimans - "Evolutionary Strategies"
+
+Panel
+
+Lunch Break
+
+1:30 - 1:50 Azalia Mirhoseini - "Learning Device Placement"
+1:50 - 2:10 Gregory Diamos - "Scaling and Sparsity"
+2:10 - 2:30 Scott Gray - "Small World Network Architectures"
+2:30 - 2:50 Timothy Lillicrap - "Scalable RL & AlphaGo"
+
+Break
+
+3:20 - 3:40 Thorsten Kurth - "Scaling Deep Learning to 15 PetaFlops"
+3:40 - 4:00 Simon Knowles - "Scalable Silicon Compute"
+4:00 - 4:20 Ujval Kapasi - "TBD"
+4:20 - 4:40 Andy Hock - "Scaling with Small Batches"
+
+Panel
 
 # Organizers
 * Erich Elsen, Google Brain
