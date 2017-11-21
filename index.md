@@ -93,3 +93,4 @@ Feel free to reach us at `supercomputersfordl2017@gmail.com` with any questions 
 * Danijar Hafner, University College London
 * Zak Stone, Google Brain
 * Brennan Saeta, Google Brain
+* Nicolas Le Roux, Google Brain
