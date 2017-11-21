@@ -25,13 +25,21 @@ Our goal is bring people who are trying to answer any of these questions togethe
 * 10 November 2017: Decisions announced
 * 9 December 2017: Workshop
 
-# Participation
+# Accepted Posters
 
-We welcome participation in the form of papers/posters and questions for the two panels that we will hold.  
-
-For papers and posters please submit 2 page papers in NIPS format to `supercomputersfordl2017@gmail.com` with `NIPS Workshop Papers` in the subject line.  Accepted papers will be posted on the website and invited to display a poster at the workshop.
-
-For panel questions please submit them to `supercomputersfordl2017@gmail.com` with `NIPS Workshop Questions` in the subject line.  The panels are TBD, but will be announced weeks before the conference.
+* Extremely Large Minibatch SGD: Training ResNet-50 on ImageNet in 15 Minutes - Takuya Akiba, Shuji Suzuki, Keisuke Fukuda
+* MPIML: A High-Performance Sparse Communication Layer for Machine Learning - Cedric Renggli, Dan Alistarh, Torsten Hoefler
+* Deep Gradient Compression: Reducing Communication Bandwidth for Distributed Training - Yujun Lin
+* Stabilizing Gradients for Deep Neural Networks via Efficient SVD Parameterization - Jiong Zhang, Qi Lei, Inderjit S. Dhillon 
+* Scalable Language Modeling: WikiText-103 on a Single GPU in 12 hours - Stephen Merity, Nitish Shirish Keskar, James Bradbury, Richard Socher
+* Supercomputing for Deep Learning: Lessons Learned and Future Directions - Sreenivas R. Sukumar, Peter J. Mendygral, Jacob Balma, Jeffrey Dawson, Alessandro Rigazzi, Aaron Vose, Michael F. Ringenberg, Kristyn J. Maschhoff and Steve L. Scott
+* Scaling GRPC Tensorflow on up to 512 nodes of Cori Supercomputer - Amrita Mathuriya, Thorsten Kurth, Vivek Rane, Mustafa Mustafa, Lei Shao, Debbie Bard, Prabhat, Victor W Lee
+* Communication Analysis of Hybrid Model and Data Parallelism in Training Neural Networks - Amir Gholami1, Ariful Azad, Kurt Keutzer, Aydın Buluc
+* Block-Sparse Recurrent Neural Networks - Sharan Narang, Eric Undersander, Greg Diamos
+* Implementing a Sparse Prediction Machine on the Trinity Supercomputer - Boram Yoon, Pete Schultz, Garrett Kenyon
+* Sparse Persistent RNNs - Feiwen Zhu, Jeff Pool
+* Adaptive Memory Networks - Daniel Li, Asim Kadav
+* ImageNet Training in Minutes - Yang You, Zhao Zhang, Cho-Jui Hsieh, James Demmel, Kurt Keutzer
 
 # Registration Awards
 
