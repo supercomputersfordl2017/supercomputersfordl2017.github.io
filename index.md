@@ -83,7 +83,7 @@ Feel free to reach us at `supercomputersfordl2017@gmail.com` with any questions 
 
 * 3:20 - 3:40 Thorsten Kurth - "Scaling Deep Learning to 15 PetaFlops"
 * 3:40 - 4:00 Simon Knowles - "Scalable Silicon Compute"
-* 4:00 - 4:20 Ujval Kapasi - "TBD"
+* 4:00 - 4:20 Ujval Kapasi - "Practical Scaling Techniques"
 * 4:20 - 4:40 Andy Hock - "Scaling with Small Batches"
 
 * Panel
