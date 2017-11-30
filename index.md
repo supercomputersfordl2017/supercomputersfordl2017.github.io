@@ -62,29 +62,29 @@ Feel free to reach us at `supercomputersfordl2017@gmail.com` with any questions 
 * 8:30 - 8:50 - Elad Hoffer - "Closing the Generalization Gap"
 * 8:50 - 9:10 - Sam Smith - "Don't Decay the Learning Rate, Increase the Batchsize"
 * 9:10 - 9:30 - Priya Goyal - "ImageNet in 1 Hour"
-* 9:30 - 9:50 - Chris Ying - "Training with TPUs"
+* 9:30 - 9:50 - Chris Ying - "ImageNet is the New MNIST"
 
 * Coffee Break
 
 * 10:10 - 10:30 - Matthew Johnson & Daniel Duckworth - "KFAC and Natural Gradients"
 * 10:30 - 10:50 - Shankar Krishnan - "Neumann Optimizer"
-* 10:50 - 11:10 Tim Salimans - "Evolutionary Strategies"
+* 10:50 - 11:10 - Tim Salimans - "Evolutionary Strategies"
 
 * Panel
 
 * Lunch Break
 
-* 1:30 - 1:50 Azalia Mirhoseini - "Learning Device Placement"
-* 1:50 - 2:10 Gregory Diamos - "Scaling and Sparsity"
-* 2:10 - 2:30 Scott Gray - "Small World Network Architectures"
-* 2:30 - 2:50 Timothy Lillicrap - "Scalable RL & AlphaGo"
+* 1:30 - 1:50 - Azalia Mirhoseini - "Learning Device Placement"
+* 1:50 - 2:10 - Gregory Diamos - "Scaling and Sparsity"
+* 2:10 - 2:30 - Scott Gray - "Small World Network Architectures"
+* 2:30 - 2:50 - Timothy Lillicrap - "Scalable RL & AlphaGo"
 
 * Break
 
-* 3:20 - 3:40 Thorsten Kurth - "Scaling Deep Learning to 15 PetaFlops"
-* 3:40 - 4:00 Simon Knowles - "Scalable Silicon Compute"
-* 4:00 - 4:20 Ujval Kapasi - "Practical Scaling Techniques"
-* 4:20 - 4:40 Andy Hock - "Scaling with Small Batches"
+* 3:20 - 3:40 - Thorsten Kurth - "Scaling Deep Learning to 15 PetaFlops"
+* 3:40 - 4:00 - Simon Knowles - "Scalable Silicon Compute"
+* 4:00 - 4:20 - Ujval Kapasi - "Practical Scaling Techniques"
+* 4:20 - 4:40 - Andy Hock - "Scaling with Small Batches"
 
 * Panel
 
