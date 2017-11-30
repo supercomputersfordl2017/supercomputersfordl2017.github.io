@@ -23,7 +23,7 @@ Our goal is bring people who are trying to answer any of these questions togethe
 13. Shankar Krishnan - "Neumann Optimizer" - Google Brain
 14. Ujval Kapasi - "TBD" - NVIDIA
 15. Thorsten Kurth - "Scaling Deep Learning to 15 PetaFlops" - Lawrence Berkeley National Labs
-16. Chris Ying - "Training with TPUs" - Google Brain
+16. Chris Ying - "ImageNet is the New MNIST" - Google Brain
 
 # Important Dates
 
