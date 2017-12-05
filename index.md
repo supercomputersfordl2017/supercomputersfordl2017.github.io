@@ -70,9 +70,14 @@ Feel free to reach us at `supercomputersfordl2017@gmail.com` with any questions 
 * 10:30 - 10:50 - Shankar Krishnan - "Neumann Optimizer"
 * 10:50 - 11:10 - Tim Salimans - "Evolutionary Strategies"
 
-* Panel
+* 11:15 - 12:00 - Panel on Future Hardware Directions
+  - Greg Diamos, Baidu Resarch, Moderator
+  - Jeff Dean, Google, Panelist
+  - Michael James, Cerebras, Panelist
+  - Simon Knowles, Graphcore, Panelist
+  - Scott Gray, OpenAI, Panelist
 
-* Lunch Break
+* Lunch Break (and posters)
 
 * 1:30 - 1:50 - Azalia Mirhoseini - "Learning Device Placement"
 * 1:50 - 2:10 - Gregory Diamos - "Scaling and Sparsity"
@@ -84,11 +89,9 @@ Feel free to reach us at `supercomputersfordl2017@gmail.com` with any questions 
 * 3:20 - 3:40 - Thorsten Kurth - "Scaling Deep Learning to 15 PetaFlops"
 * 3:40 - 4:00 - Simon Knowles - "Scalable Silicon Compute"
 * 4:00 - 4:20 - Ujval Kapasi - "Practical Scaling Techniques"
-* 4:20 - 4:40 - Andy Hock - "Scaling with Small Batches"
+* 4:20 - 4:40 - Michael James - "Designing for Supercompute-Scale Deep Learning"
 
-* Panel
-
-* 5:30 - Goodbye
+* 4:45 - 5:30 - Posters and Mingling
 
 # Organizers
 * Erich Elsen, Google Brain
