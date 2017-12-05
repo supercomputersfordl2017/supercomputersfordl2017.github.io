@@ -71,10 +71,10 @@ Feel free to reach us at `supercomputersfordl2017@gmail.com` with any questions 
 * 10:50 - 11:10 - Tim Salimans - "Evolutionary Strategies"
 
 * 11:15 - 12:00 - Panel on Future Hardware Directions
-  - Greg Diamos, Baidu Resarch, Moderator
-  - Jeff Dean, Google, Panelist
-  - Michael James, Cerebras, Panelist
-  - Simon Knowles, Graphcore, Panelist
+  - Greg Diamos, Baidu Research, Moderator
+  - Jeff Dean, Google Senior Fellow, Panelist
+  - Michael James, Cerebras CTO and Co-founder, Panelist
+  - Simon Knowles, Graphcore CTO and Co-founder, Panelist
   - Scott Gray, OpenAI, Panelist
 
 * Lunch Break (and posters)
