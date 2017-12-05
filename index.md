@@ -15,13 +15,13 @@ Our goal is bring people who are trying to answer any of these questions togethe
 5. Matthew Johnson & Daniel Duckworth - "KFAC and Natural Gradients" - Google Brain
 6. Tim Salimans - "Evolutionary Strategies" - OpenAI
 7. Elad Hoffer - "Closing the Generalization Gap" - Technion
-8. Andy Hock - "Scaling with Small Batches" - Cerebras
+8. Michael James - "Scaling with Small Batches" - Cerebras
 9. Azalia Mirhoseini - "Learning Device Placement" - Google Brain
 10. Gregory Diamos - "Scaling and Sparsity" - Baidu
 11. Simon Knowles - "Scalable Silicon Compute" - GraphCore
 12. Sam Smith - "Don't Decay the Learning Rate, Increase the Batchsize" - Google Brain
 13. Shankar Krishnan - "Neumann Optimizer" - Google Brain
-14. Ujval Kapasi - "TBD" - NVIDIA
+14. Ujval Kapasi - "Practical Scaling Techniques" - NVIDIA
 15. Thorsten Kurth - "Scaling Deep Learning to 15 PetaFlops" - Lawrence Berkeley National Labs
 16. Chris Ying - "ImageNet is the New MNIST" - Google Brain
 
