@@ -43,7 +43,7 @@ Our goal is bring people who are trying to answer any of these questions togethe
 * Communication Analysis of Hybrid Model and Data Parallelism in Training Neural Networks - Amir Gholami1, Ariful Azad, Kurt Keutzer, Aydın Buluc
 * Block-Sparse Recurrent Neural Networks - Sharan Narang, Eric Undersander, Greg Diamos
 * Implementing a Sparse Prediction Machine on the Trinity Supercomputer - Boram Yoon, Pete Schultz, Garrett Kenyon
-* Sparse Persistent RNNs - Feiwen Zhu, Jeff Pool
+* Sparse Persistent RNNs - Feiwen Zhu, Jeff Pool, Michael Andersch, Jeremy Appleyard, Fung Xie
 * Adaptive Memory Networks - Daniel Li, Asim Kadav
 * ImageNet Training in Minutes - Yang You, Zhao Zhang, Cho-Jui Hsieh, James Demmel, Kurt Keutzer
 
