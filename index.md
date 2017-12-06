@@ -14,7 +14,7 @@ Our goal is bring people who are trying to answer any of these questions togethe
 4. Scott Gray - "Small World Network Architectures" - OpenAI
 5. Matthew Johnson & Daniel Duckworth - "KFAC and Natural Gradients" - Google Brain
 6. Tim Salimans - "Evolutionary Strategies" - OpenAI
-7. Elad Hoffer - "Closing the Generalization Gap" - Technion
+7. Elad Hoffer, Itay Hubara - "Closing the Generalization Gap" - Technion
 8. Michael James - "Scaling with Small Batches" - Cerebras
 9. Azalia Mirhoseini - "Learning Device Placement" - Google Brain
 10. Gregory Diamos - "Scaling and Sparsity" - Baidu
@@ -59,7 +59,7 @@ Feel free to reach us at `supercomputersfordl2017@gmail.com` with any questions 
 
 * 8:00 - 8:10 - Welcome
 * 8:10 - 8:30 - Nitish Keskar - "Generalization Gap"
-* 8:30 - 8:50 - Elad Hoffer - "Closing the Generalization Gap"
+* 8:30 - 8:50 - Itay Hubara, Elad Hoffer - "Closing the Generalization Gap"
 * 8:50 - 9:10 - Sam Smith - "Don't Decay the Learning Rate, Increase the Batchsize"
 * 9:10 - 9:30 - Priya Goyal - "ImageNet in 1 Hour"
 * 9:30 - 9:50 - Chris Ying - "ImageNet is the New MNIST"
