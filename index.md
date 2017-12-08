@@ -35,7 +35,7 @@ Our goal is bring people who are trying to answer any of these questions togethe
 
 * Extremely Large Minibatch SGD: Training ResNet-50 on ImageNet in 15 Minutes - Takuya Akiba, Shuji Suzuki, Keisuke Fukuda
 * MPIML: A High-Performance Sparse Communication Layer for Machine Learning - Cedric Renggli, Dan Alistarh, Torsten Hoefler
-* Deep Gradient Compression: Reducing Communication Bandwidth for Distributed Training - Yujun Lin
+* Deep Gradient Compression: Reducing Communication Bandwidth for Distributed Training - Yujun Lin, Song Han, Huizi Mao, Yu Wang, William J. Dally
 * Stabilizing Gradients for Deep Neural Networks via Efficient SVD Parameterization - Jiong Zhang, Qi Lei, Inderjit S. Dhillon 
 * Scalable Language Modeling: WikiText-103 on a Single GPU in 12 hours - Stephen Merity, Nitish Shirish Keskar, James Bradbury, Richard Socher
 * Supercomputing for Deep Learning: Lessons Learned and Future Directions - Sreenivas R. Sukumar, Peter J. Mendygral, Jacob Balma, Jeffrey Dawson, Alessandro Rigazzi, Aaron Vose, Michael F. Ringenberg, Kristyn J. Maschhoff and Steve L. Scott
