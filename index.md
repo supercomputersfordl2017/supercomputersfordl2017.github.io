@@ -23,7 +23,7 @@ Our goal is bring people who are trying to answer any of these questions togethe
 13. Shankar Krishnan - "[Neumann Optimizer](Presentations/NeumannOptimizerFinal.pdf)" - Google Brain
 14. Ujval Kapasi - "[Practical Scaling Techniques](Presentations/	practical_scaling_techniques_v6.pdf)" - NVIDIA
 15. Thorsten Kurth - "[Scaling Deep Learning to 15 PetaFlops](Presentations/ThorstenLargeScaleDeepLearning.pdf)" - Lawrence Berkeley National Labs
-16. Chris Ying - "[ImageNet is the New MNIST](Presentations/ImageNetNewMNIST)" - Google Brain
+16. Chris Ying - "[ImageNet is the New MNIST](Presentations/ImageNetNewMNIST.pdf)" - Google Brain
 
 # Important Dates
 
