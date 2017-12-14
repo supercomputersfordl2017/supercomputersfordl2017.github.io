@@ -9,21 +9,21 @@ Our goal is bring people who are trying to answer any of these questions togethe
 # Confirmed Speakers
 
 1. Priya Goyal - "[ImageNet in 1 Hour](Presentations/NIPS-workshop-priya-final.pptx)" - Facebook Research
-2. Timothy Lillicrap - "Scalable RL & AlphaGo" - DeepMind
-3. Nitish Keskar - "Generalization Gap" - Salesforce Research
-4. Scott Gray - "Small World Network Architectures" - OpenAI
-5. Matthew Johnson & Daniel Duckworth - "KFAC and Natural Gradients" - Google Brain
-6. Tim Salimans - "Evolutionary Strategies" - OpenAI
-7. Elad Hoffer, Itay Hubara - "Closing the Generalization Gap" - Technion
+2. Timothy Lillicrap - "[Scalable RL & AlphaGo](Presentations/DeepReinforcementLearningatScale.pdf)" - DeepMind
+3. Nitish Keskar - "[Generalization Gap](Presentations/NIPS2017_SharpMinima.pdf)" - Salesforce Research
+4. Scott Gray - "[Small World Network Architectures](Presentations/SmallWorldNetworkArchitectures.pdf)" - OpenAI
+5. Matthew Johnson & Daniel Duckworth - "[KFAC and Natural Gradients](Presentations/K-FAC.pdf)" - Google Brain
+6. Tim Salimans - "[Evolutionary Strategies](Presentations/Salimans_ES.pdf)" - OpenAI
+7. Elad Hoffer, Itay Hubara - "[Closing the Generalization Gap](Presentations/TrainLongerPresentation.pdf)" - Technion
 8. Michael James - "Scaling with Small Batches" - Cerebras
-9. Azalia Mirhoseini - "Learning Device Placement" - Google Brain
-10. Gregory Diamos - "Scaling and Sparsity" - Baidu
-11. Simon Knowles - "Scalable Silicon Compute" - GraphCore
-12. Sam Smith - "Don't Decay the Learning Rate, Increase the Batchsize" - Google Brain
-13. Shankar Krishnan - "Neumann Optimizer" - Google Brain
-14. Ujval Kapasi - "Practical Scaling Techniques" - NVIDIA
-15. Thorsten Kurth - "Scaling Deep Learning to 15 PetaFlops" - Lawrence Berkeley National Labs
-16. Chris Ying - "ImageNet is the New MNIST" - Google Brain
+9. Azalia Mirhoseini - "[Learning Device Placement](Presentations/DevicePlacementWithDeepRL.pdf)" - Google Brain
+10. Gregory Diamos - "[Scaling is Predictable](Presentations/scaling-is-predictable.pdf)" - Baidu
+11. Simon Knowles - "[Scalable Silicon Compute](Presentations/SimonKnowlesGraphCore.pdf)" - GraphCore
+12. Sam Smith - "[Don't Decay the Learning Rate, Increase the Batchsize](Presentations/DLSC_talk.pdf)" - Google Brain
+13. Shankar Krishnan - "[Neumann Optimizer](Presentations/NeumannOptimizerFinal.pdf)" - Google Brain
+14. Ujval Kapasi - "[Practical Scaling Techniques](Presentations/	practical_scaling_techniques_v6.pdf)" - NVIDIA
+15. Thorsten Kurth - "[Scaling Deep Learning to 15 PetaFlops](Presentations/ThorstenLargeScaleDeepLearning.pdf)" - Lawrence Berkeley National Labs
+16. Chris Ying - "[ImageNet is the New MNIST](Presentations/ImageNetNewMNIST)" - Google Brain
 
 # Important Dates
 
