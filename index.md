@@ -8,7 +8,7 @@ Our goal is bring people who are trying to answer any of these questions togethe
 
 # Confirmed Speakers
 
-1. Priya Goyal - "ImageNet in 1 Hour" - Facebook Research
+1. Priya Goyal - "[ImageNet in 1 Hour](Presentations/NIPS-workshop-priya-final.pptx)" - Facebook Research
 2. Timothy Lillicrap - "Scalable RL & AlphaGo" - DeepMind
 3. Nitish Keskar - "Generalization Gap" - Salesforce Research
 4. Scott Gray - "Small World Network Architectures" - OpenAI
